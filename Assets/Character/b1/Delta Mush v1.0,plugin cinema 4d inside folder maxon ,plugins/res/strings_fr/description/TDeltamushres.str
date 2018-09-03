@@ -1,0 +1,21 @@
+STRINGTABLE TDeltamushres
+{
+        
+        TDeltamushres                                              "Propri\u00e9t\u00e9 Delta Mush";
+        ID_TDELTAMUSH_PREV_SMOOTH                              "Pr\u00e9visualiser le lissage";
+        ID_TDELTAMUSH_OBJECT_INITIAL                            "Geler";
+        ID_TDELTAMUSH_OBJECT_RESTORE                            "Rel\u00e2cher";
+        ID_TDELTAMUSH_OBJECT_MEM                                "";
+        
+        ID_TDELTAMUSH_SMOOTH_ITERATION                          "It\u00e9ration";
+        ID_TDELTAMUSH_WEIGHT_TYPE                               "Type de lissage";
+        ID_TDELTAMUSH_WEIGHT_FIXE                               "Fixe";
+        ID_TDELTAMUSH_WEIGHT_PROPORTIONNNEL                     "Bas\u00e9 sur la distance";  
+        ID_TDELTAMUSH_PIN_CORNER                                "Epingler les bordures";
+        ID_TDELTAMUSH_WEIGHTMAP                                 "Carte D'influence";
+        ID_TDELTAMUSH_WEIGHT                                    "Intensit\u00e9";
+
+}   
+
+
+}

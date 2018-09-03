@@ -1,0 +1,10 @@
+STRINGTABLE 
+{
+		IDS_TAG_DELTAMUSH						"Delta Mush Tag";
+		IDS_DELTAMUSH_DEFORMER					"Delta Mush";
+		ID_TDELTAMUSH_OBJECT_MEM_SIZE           "Speicher : ";
+		ID_TDELTAMUSH_AUTOMODE					"Auto-modus, drukt u op Bevriezen";
+		ID_DELTAMUSH_VERSION					"Delta Mush v1.0";
+		ID_DELTAMUSH_ADDBOTH					"Voeg Delta Mush";
+		ID_DELTAMUSH_ADDBOTH_STRING				"Voeg Delta Mush vervormer indien nodig en Tag";
+}

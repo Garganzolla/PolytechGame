@@ -1,0 +1,21 @@
+STRINGTABLE TDeltamushres
+{
+		
+        TDeltamushres                                              "Delta Mush Etiquetas";
+        ID_TDELTAMUSH_PREV_SMOOTH                              "Preestreno Suavizado";
+  		ID_TDELTAMUSH_OBJECT_INITIAL                            "Congelar";
+        ID_TDELTAMUSH_OBJECT_RESTORE                            "Descongelar";
+        ID_TDELTAMUSH_OBJECT_MEM                                "";
+        
+        ID_TDELTAMUSH_SMOOTH_ITERATION                          "Suavizado Iteraciones";
+        ID_TDELTAMUSH_WEIGHT_TYPE                               "Peso tipo";
+        ID_TDELTAMUSH_WEIGHT_FIXE                               "Fijo";
+        ID_TDELTAMUSH_WEIGHT_PROPORTIONNNEL                     "Longitud";  
+        ID_TDELTAMUSH_PIN_CORNER                                "Ajustar a puntos del borde";
+        ID_TDELTAMUSH_WEIGHTMAP                                 "Fuerza Mapa";
+        ID_TDELTAMUSH_WEIGHT                                    "Fuerza";
+
+}   
+
+
+}

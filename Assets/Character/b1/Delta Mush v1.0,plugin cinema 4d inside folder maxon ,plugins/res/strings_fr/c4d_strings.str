@@ -1,0 +1,10 @@
+STRINGTABLE 
+{
+		IDS_TAG_DELTAMUSH						"Propri\u00e9t\u00e9s Delta Mush";
+		IDS_DELTAMUSH_DEFORMER					"Delta Mush";
+		ID_TDELTAMUSH_OBJECT_MEM_SIZE           "Memoire : ";
+		ID_TDELTAMUSH_AUTOMODE					"Mode Automatique appuyez sur geler";
+		ID_DELTAMUSH_VERSION					"Delta Mush v1.0";
+		ID_DELTAMUSH_ADDBOTH					"Ajouter Delta Mush";
+		ID_DELTAMUSH_ADDBOTH_STRING				"Ajouter le d\u00e9formateur Delta Mush si besoin et le tag";
+}

@@ -1,0 +1,9 @@
+STRINGTABLE Odeltamushdeformer
+{
+        Odeltamushdeformer                                     "Delta Mush";
+        ID_ODELTAMUSH_INEXCLUDE_MODE							"Mode";
+        ID_ODELTAMUSH_INEXCLUDE_LIST							"Tags";
+        ID_ODELTAMUSH_INEXCLUDE_MODE_INCLUDE					"Include";
+        ID_ODELTAMUSH_INEXCLUDE_MODE_EXCLUDE					"Exclude";
+
+}

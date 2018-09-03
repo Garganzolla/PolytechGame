@@ -1,0 +1,128 @@
+﻿//----------------------------------------------------------------------------------------
+Many Thanks to Sebastian, SDK Support Engineer from the plugincafe.com forum, to point me to the right direction.
+//----------------------------------------------------------------------------------------
+Thanks to Rodrigo Rodrigues for the icon.
+//----------------------------------------------------------------------------------------
+
+v 1.0
+//----------------------------------------------------------------------------------------
+Release.
+//----------------------------------------------------------------------------------------
+
+
+//----------------------------------------------------------------------------------------
+v 0.1.9RC
+- Change the way tangent are calculated. (freezed tag should be release and freezed back)
+- documentation pdf french and english
+
+//----------------------------------------------------------------------------------------
+
+
+//----------------------------------------------------------------------------------------
+v 0.1.7
+- when you use the "add Delta Mush" function, if you got a vertex map selected, the tag's field will be filled with it.
+  if a skin deformer exist, the delta mush deformer will be placed just below it.
+
+- french String
+- spanish string
+- german string
+//----------------------------------------------------------------------------------------
+
+
+//----------------------------------------------------------------------------------------
+v 0.1.6
+- new commant to add the deformer and the tag at the same time.
+Shift + command --> deformer will be added as child of the object
+Ctrl  + command --> deformer will be add at the same level if the object has a parent
+//----------------------------------------------------------------------------------------
+
+
+
+//----------------------------------------------------------------------------------------
+v 0.1.5
+- add in/exclude list field on the deformer.
+
+//----------------------------------------------------------------------------------------
+v 0.1.4
+
+- fixed issues with serial for net and demo versions.
+
+
+//----------------------------------------------------------------------------------------
+
+
+v 0.1.3
+
+- the weight field and the vertex map wasn’t working with the weight type fixe.
+
+- the falloff wasn’t working with the prevSmooth.
+
+- the restriction tag wasn’t working with the prevSmooth activated.
+
+- new icons
+
+
+//----------------------------------------------------------------------------------------
+-
+
+v 0.1
+
+- we can add several tag on object. 
+
+- use vertex map per tag to limit the effect. 
+
+- each tag got a weight function (it’s maybe better to lower the iterations but it’s there)
+
+- tag can now be disabled.
+
+- remove the display tab.
+
+- possibility to display the smooth preview even if the tag is freezed. 
+
+- the tag must be freezed to work with the morph tag. But it can be placed either before or after.
+
+- in the morph tag you can select the « post deformer » option to avoid deltamush smooth that morph.
+
+- serial number added. (you will receive another email after this one with the serial) It’s not attached to you cinema4D’s serial so you can use it on as many computer you want.
+
+- serial number should not be asked if the demo version is detected, the student version, the netrender client or server or if you are using a licence server. (if you got time to test any of them)
+
+
+
+
+The deformer is still there
+
+- the falloff tab can be used to have a global weight effect.
+
+- we can use a restriction tag and a vertex map to have a global limitation.
+
+bug removed :
+
+- crash if object got more polygons than points.
+
+
+
+//----------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------
+
+
+
+
+know issu : 
+
+- the priority setting seem to have no effect. (with the morph tag for exemple)
+
+//----------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------
+
+
+//----------------------------------------------------------------------------------------
+
+
+
+
+
+//----------------------------------------------------------------------------------------
+many thank to the deta testers :)
+//----------------------------------------------------------------------------------------

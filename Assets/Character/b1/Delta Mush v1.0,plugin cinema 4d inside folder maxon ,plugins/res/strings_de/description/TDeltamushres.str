@@ -1,0 +1,21 @@
+STRINGTABLE TDeltamushres
+{
+		
+        TDeltamushres                                             "Delta Mush Tag";
+        ID_TDELTAMUSH_PREV_SMOOTH                              "Voorbeeld glad";
+  		ID_TDELTAMUSH_OBJECT_INITIAL                            "Bevriezen";
+        ID_TDELTAMUSH_OBJECT_RESTORE                            "Vrijlating";
+        ID_TDELTAMUSH_OBJECT_MEM                                "";
+        
+        ID_TDELTAMUSH_SMOOTH_ITERATION                          "Iterationen";
+        ID_TDELTAMUSH_WEIGHT_TYPE                               "Wichtung Typ";
+        ID_TDELTAMUSH_WEIGHT_FIXE                               "Vast";
+        ID_TDELTAMUSH_WEIGHT_PROPORTIONNNEL                     "Lengte";  
+        ID_TDELTAMUSH_PIN_CORNER                                "Rand fix.";
+        ID_TDELTAMUSH_WEIGHTMAP                                 "St\u00e4rke Map";
+        ID_TDELTAMUSH_WEIGHT                                    "St\u00e4rke";
+
+}   
+
+
+}

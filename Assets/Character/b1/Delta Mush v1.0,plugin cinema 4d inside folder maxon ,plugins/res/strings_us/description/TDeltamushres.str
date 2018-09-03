@@ -1,0 +1,21 @@
+STRINGTABLE TDeltamushres
+{
+		
+        TDeltamushres                                              "Delta Mush Tag";
+        ID_TDELTAMUSH_PREV_SMOOTH                              "Prev Smooth";
+  		ID_TDELTAMUSH_OBJECT_INITIAL                            "Freeze";
+        ID_TDELTAMUSH_OBJECT_RESTORE                            "Release";
+        ID_TDELTAMUSH_OBJECT_MEM                                "";
+        
+        ID_TDELTAMUSH_SMOOTH_ITERATION                          "Smooth Iteration";
+        ID_TDELTAMUSH_WEIGHT_TYPE                               "Weight Type";
+        ID_TDELTAMUSH_WEIGHT_FIXE                               "Fixe";
+        ID_TDELTAMUSH_WEIGHT_PROPORTIONNNEL                     "Lenght";  
+        ID_TDELTAMUSH_PIN_CORNER                                "Pin Border Points";
+        ID_TDELTAMUSH_WEIGHTMAP                                 "Strength Map";
+        ID_TDELTAMUSH_WEIGHT                                    "Strength";
+
+
+
+     
+}   
